@@ -33,9 +33,14 @@ A passionate frontend developer from India<br>🔭 I’m currently pursuing Comp
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SAYAN-DAN&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=SAYAN-DAN&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAYAN-DAN&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYAN-DAN&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYAN-DAN&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan-dan&show_icons=true&locale=en&layout=compact" alt="sayan-dan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan-dan&show_icons=true&locale=en" alt="sayan-dan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-dan&" alt="sayan-dan" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SAYAN-DAN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
