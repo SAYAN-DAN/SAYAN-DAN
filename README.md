@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm SAYAN DAN</h1>
+<h1 align="center">Hi 👋, I'm SAYAN DAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-dan&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-dan" /> </p>
@@ -21,8 +21,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan-dan&show_icons=true&locale=en" alt="sayan-dan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-dan&" alt="sayan-dan" /></p> -->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-dan&" alt="sayan-dan" /></p>
+<!-- 
 # 💫 About Me:
 A passionate frontend developer from India<br>🔭 I’m currently pursuing Computer Sciences <br>🌱 I’m currently learning Computer Science at NETAJI MAHAVIDLAYA (2023~2027)<br>
 
@@ -47,6 +47,6 @@ A passionate frontend developer from India<br>🔭 I’m currently pursuing Comp
 ![](https://github-contributor-stats.vercel.app/api?username=SAYAN-DAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SAYAN-DAN&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SAYAN-DAN&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
