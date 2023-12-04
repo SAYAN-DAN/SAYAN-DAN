@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am so Funny 😜😜**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sayan-dan-70176026b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-dan-70176026b/" height="30" width="40" /></a>
 </p>
@@ -22,9 +22,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan-dan&show_icons=true&locale=en" alt="sayan-dan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-dan&" alt="sayan-dan" /></p>
-<!-- 
+
 # 💫 About Me:
-A passionate frontend developer from India<br>🔭 I’m currently pursuing Computer Sciences <br>🌱 I’m currently learning Computer Science at NETAJI MAHAVIDLAYA (2023~2027)<br>
+A passionate frontend developer from India<br>🔭 I’m currently pursuing Computer Sciences <br>🌱 I’m currently learning Computer Science at NETAJI MAHAVIDLAYA (2023~2027)<br> -->
 
 
 ## 🌐 Socials:
@@ -47,6 +47,6 @@ A passionate frontend developer from India<br>🔭 I’m currently pursuing Comp
 ![](https://github-contributor-stats.vercel.app/api?username=SAYAN-DAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SAYAN-DAN&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=SAYAN-DAN&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
