@@ -32,7 +32,7 @@ A passionate frontend developer from India<br>🔭 I’m currently pursuing Comp
 
 # 💻 Tech Stack:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/html.jpg" alt="html5" width="60" height="30"/> </a>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.20i.com/blog/wp-content/uploads/2022/08/git-blog-header.png" alt="git" width="60" height="30"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*SSRjtoQ0H2X3SBPOiJ5rZw.jpeg" alt="GitHub" width="60" height="30"/> </a>
 
 # 📊 GitHub Stats:
