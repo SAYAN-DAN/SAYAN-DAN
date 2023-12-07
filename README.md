@@ -36,8 +36,7 @@ A passionate frontend developer from India<br>🔭 I’m currently pursuing Comp
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.20i.com/blog/wp-content/uploads/2022/08/git-blog-header.png" alt="git" width="100" height="30"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*SSRjtoQ0H2X3SBPOiJ5rZw.jpeg" alt="GitHub" width="100" height="30"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/5905330/b77da600-0330-11ea-965b-ec11bc9d0759" alt="GSAP" width="100" height="30"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*SSRjtoQ0H2X3SBPOiJ5rZw.jpeg" alt="GitHub" width="100" height="30"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/409677566/62a2e3a6-8d12-435d-b41c-1f115dbfd0ce" alt="GSAP" width="100" height="30"/> </a>
+ <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/409677566/62a2e3a6-8d12-435d-b41c-1f115dbfd0ce" alt="GSAP" width="100" height="30"/> </a> -->
 
 
 # 📊 GitHub Stats:
