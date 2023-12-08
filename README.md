@@ -33,7 +33,10 @@ A passionate frontend developer from India<br>🔭 I’m currently pursuing Comp
 # 💻 Tech Stack:
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/html.jpg" alt="html5" width="100" height="30"/> </a>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![GITHUB PAGES](https://camo.githubusercontent.com/9f3a28edc6de22024258f46392152fff8c083b0fa69fb813be667fd08053c5fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67697468756225323070616765732d3132313031333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+![GITHUB PAGES](https://camo.githubusercontent.com/9f3a28edc6de22024258f46392152fff8c083b0fa69fb813be667fd08053c5fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67697468756225323070616765732d3132313031333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
+
+ ![GIT](https://camo.githubusercontent.com/32bbca0df7d3e1cab2bddf98cc17b82b41647d626139d71c263ef5b3d4738b34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d6663366432363f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465) 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.20i.com/blog/wp-content/uploads/2022/08/git-blog-header.png" alt="git" width="100" height="30"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*SSRjtoQ0H2X3SBPOiJ5rZw.jpeg" alt="GitHub" width="100" height="30"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/5905330/b77da600-0330-11ea-965b-ec11bc9d0759" alt="GSAP" width="100" height="30"/> </a>
