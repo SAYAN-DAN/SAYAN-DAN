@@ -32,7 +32,10 @@ A passionate frontend developer from India<br>🔭 I’m currently pursuing Comp
 
 # 💻 Tech Stack:
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/html.jpg" alt="html5" width="100" height="30"/> </a>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 ![GITHUB PAGES](https://camo.githubusercontent.com/9f3a28edc6de22024258f46392152fff8c083b0fa69fb813be667fd08053c5fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67697468756225323070616765732d3132313031333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
 
