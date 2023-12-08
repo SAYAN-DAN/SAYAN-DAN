@@ -41,7 +41,7 @@ A passionate frontend developer from India<br>🔭 I’m currently pursuing Comp
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYAN-DAN&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 
-![](https://github-stats-alpha.vercel.app/api?username={your-github-SAYAN-DAN})
+![](https://github-stats-alpha.vercel.app/api?username=SAYAN-DAN&cc=000&tc=fff&ic=fff&bc=000)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan-dan&show_icons=true&locale=en&layout=compact" alt="sayan-dan" /></p>
 
