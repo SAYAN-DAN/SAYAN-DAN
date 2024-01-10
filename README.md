@@ -45,7 +45,7 @@ A passionate frontend developer from India<br>🔭 I’m currently pursuing Comp
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan-dan&show_icons=true&locale=en&layout=compact" alt="sayan-dan" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan-dan&show_icons=true&locale=en" alt="sayan-dan" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan-dan&show_icons=true&locale=en" alt="sayan-dan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-dan&" alt="sayan-dan"/></p>
 
